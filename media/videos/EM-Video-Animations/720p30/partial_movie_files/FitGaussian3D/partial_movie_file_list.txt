@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/zachl/OneDrive/Documents/GitHub/EM-Video-Animations/media/videos/EM-Video-Animations/720p30/partial_movie_files/FitGaussian3D/3965030256_2446858456_223132457.mp4'
+file 'file:C:/Users/zachl/OneDrive/Documents/GitHub/EM-Video-Animations/media/videos/EM-Video-Animations/720p30/partial_movie_files/FitGaussian3D/1478622274_4073845205_1116995277.mp4'
+file 'file:C:/Users/zachl/OneDrive/Documents/GitHub/EM-Video-Animations/media/videos/EM-Video-Animations/720p30/partial_movie_files/FitGaussian3D/1478622274_2256082110_1758678297.mp4'
+file 'file:C:/Users/zachl/OneDrive/Documents/GitHub/EM-Video-Animations/media/videos/EM-Video-Animations/720p30/partial_movie_files/FitGaussian3D/1478622274_4073845205_4230893222.mp4'
+file 'file:C:/Users/zachl/OneDrive/Documents/GitHub/EM-Video-Animations/media/videos/EM-Video-Animations/720p30/partial_movie_files/FitGaussian3D/1674908511_1531998346_4289445583.mp4'
+file 'file:C:/Users/zachl/OneDrive/Documents/GitHub/EM-Video-Animations/media/videos/EM-Video-Animations/720p30/partial_movie_files/FitGaussian3D/2136531252_4131852325_3834222485.mp4'
+file 'file:C:/Users/zachl/OneDrive/Documents/GitHub/EM-Video-Animations/media/videos/EM-Video-Animations/720p30/partial_movie_files/FitGaussian3D/2889957033_2457438588_401129971.mp4'
+file 'file:C:/Users/zachl/OneDrive/Documents/GitHub/EM-Video-Animations/media/videos/EM-Video-Animations/720p30/partial_movie_files/FitGaussian3D/1633921616_4073845205_311973515.mp4'

@@ -1,0 +1,21 @@
+Scene 1: Maximum Likelihood Estimation Intro
+
+Scene 2: Super Basic Review of MLE 
+
+Scene 3: The Problem with MLE - Latent variables
+
+Scene 4: EM as the ML solution to fitting latent variable models
+
+Scene 5: EM theory - modeled after Bishop general EM section
+
+Scene 6: Introduce the clustering problem as a latent variable model
+
+Scene 7: Introduce general idea of EM
+
+Scene 8: Show derivation of EM equations for GMM -> this is so important because I feel like its easy
+to lose how you actually apply the theory if you don't see this at least once.
+    - We can do some animations of the figures in Bishop
+
+Scene 9: Show real GMM example and LL surface
+
+Scene 10: review
